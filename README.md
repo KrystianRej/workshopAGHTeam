@@ -1,0 +1,2 @@
+# workshopAGHTeam
+Repository for contest
